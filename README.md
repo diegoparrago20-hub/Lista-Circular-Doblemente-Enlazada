@@ -1,4 +1,4 @@
-# Lista-Circular-Doblemente-Enlazada
+# Act_2.6 Lista Circular Doblemente Enlazada
 Proyecto realizado en Java utilizando NetBeans, correspondiente a la actividad de Lista Circular Doblemente Enlazada. Se desarrolla una interfaz gráfica con Java Swing para representar las operaciones de una lista de boletos.
 
 ## Equipo #2
