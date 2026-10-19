@@ -20,7 +20,7 @@ Git y GitHub
 # Características
 Captura de datos de los boletos.
 
-Campos para folio, evento, precio y fecha.
+Nº Ticket, clase, precio, fecha y estado.
 
 Botones para insertar al principio, al final y por posición.
 
