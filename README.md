@@ -34,5 +34,14 @@ Tabla para visualizar los boletos.
 
 Interfaz gráfica organizada mediante paneles.
 
+#Estructura del proyecto
+Record Boleto: representa los datos de cada boleto, como folio, evento, precio y fecha.
+
+Nodo: almacena un boleto y las referencias al nodo anterior y al siguiente.
+
+ListaCircular: implementa las operaciones de inserción, eliminación, búsqueda y recorrido circular.
+
+Interfaz gráfica: permite interactuar con la lista mediante formularios, botones y una tabla.
+
 # Interfaz gráfica
 La interfaz se realiza en NetBeans mediante componentes de Java Swing, organizando los campos y botones para facilitar el uso de las operaciones de la lista.
